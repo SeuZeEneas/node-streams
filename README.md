@@ -36,7 +36,7 @@ O script cria um grande volume de objetos JSON simulando pessoas, transforma ess
 
 3. O arquivo my.csv será criado na raiz do projeto.
 
-##📝 Exemplo de saída (CSV)
+## 📝 Exemplo de saída (CSV)
 
    id, name, address, city
    1716574354890, JHON DUE ~ 0, St.Lucius, New York
