@@ -23,8 +23,7 @@ O script cria um grande volume de objetos JSON simulando pessoas, transforma ess
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+  git clone https://github.com/SeuZeEneas/node-streams.git
    ```
 
 2. Executar:
