@@ -27,7 +27,7 @@ O script cria um grande volume de objetos JSON simulando pessoas, transforma ess
    cd seu-repositorio
    ```
 
-2. Executar:
+2. Executar:/n
   use o comando:
 ```bash
 node index.js
