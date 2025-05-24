@@ -25,13 +25,13 @@ O script cria um grande volume de objetos JSON simulando pessoas, transforma ess
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
+   ```
 
 2. Executar:
   use o comando:
 ```bash
 node index.js
-```bash
-
+```
 
 4. O arquivo my.csv será criado na raiz do projeto.
 
