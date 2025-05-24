@@ -27,10 +27,13 @@ O script cria um grande volume de objetos JSON simulando pessoas, transforma ess
    cd seu-repositorio
 
 2. Executar:
-  use o comando `node index.js`
+  use o comando:
+```bash
+node index.js
+```bash
 
 
-3. O arquivo my.csv será criado na raiz do projeto.
+4. O arquivo my.csv será criado na raiz do projeto.
 
 📝 Exemplo de saída (CSV)
 
