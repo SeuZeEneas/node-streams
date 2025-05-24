@@ -29,7 +29,7 @@ O script cria um grande volume de objetos JSON simulando pessoas, transforma ess
    
    use o comando:
    ```bash
-   node index.js
+   node index.mjs
    ```
 
 3. O arquivo my.csv será criado na raiz do projeto.
